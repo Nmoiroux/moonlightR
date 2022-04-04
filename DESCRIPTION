@@ -1,0 +1,15 @@
+Package: moonlightR
+Type: Package
+Title: Natural Light (Moon and Sun) at Designated Time of Day or Night
+Version: 0.1.0
+Author: Nicolas Moiroux [aut, trl, cre]
+        P.M. Janiczek [aut]
+        J.A. De Young [aut]
+Maintainer: Nicolas Moiroux <n.moiroux@gmail.com>
+Description: Get the amount of natural light from moon and sun at dedignated location (latitude, longitude) and date-time.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    lubridate
+RoxygenNote: 7.1.2
