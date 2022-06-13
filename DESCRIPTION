@@ -13,3 +13,5 @@ LazyData: true
 Imports: 
     lubridate
 RoxygenNote: 7.1.2
+URL: https://github.com/Nmoiroux/moonlightR
+BugReports: https://github.com/Nmoiroux/moonlightR/issues
