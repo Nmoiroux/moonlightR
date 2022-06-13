@@ -37,7 +37,7 @@
 #'
 #'
 #'
-sunmoonIlluminance <- function(lon,lat,date,TZ,sky){
+sunmoonIlluminance <- function(lon,lat,date,TZ = 0,sky = 1){
   # parameters
 
   LO <- lon # lon
